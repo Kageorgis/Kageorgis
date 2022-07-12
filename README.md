@@ -4,7 +4,7 @@ Hi 👋 My name is Aramayis Kageorgis
 Senior Salesforce Developer at Warner Bros.
 -------------------------------------------
 
-I'm a Developer / Architect with a passion for DevOps
+I'm a Developer and Architect with a passion for DevOps
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [akageorgis@gmail.com](mailto:akageorgis@gmail.com)
