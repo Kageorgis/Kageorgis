@@ -7,8 +7,6 @@ Senior Salesforce Developer at Warner Bros.
 I'm Developer/Architect with a passion for Service Cloud & DevOps
 
 * 🌍  I'm based in United States
-* ✉️  You can contact me at [akageorgis@gmail.com](mailto:akageorgis@gmail.com)
-
 
 ### Follow me on Linked-In
 
